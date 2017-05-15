@@ -9,6 +9,7 @@
   "author": "Brian Sihlongonyane",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.2",
     "express3-handlebars": "^0.5.2"
   }
 }
